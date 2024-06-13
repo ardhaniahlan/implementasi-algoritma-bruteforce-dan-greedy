@@ -1,6 +1,5 @@
 from itertools import permutations
 
-# Definisikan jarak antar node
 distances = {
     ('A', 'B'): 260,
     ('A', 'C'): 270,
