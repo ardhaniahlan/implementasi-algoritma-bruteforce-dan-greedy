@@ -1,5 +1,4 @@
-**Tugas Besar Strategi Algoritma **
-
+<h1>Tugas Besar Strategi Algoritma</h1>
 **Implementasi Algoritma Brute Force dan Greedy**
 
 Anggota :
